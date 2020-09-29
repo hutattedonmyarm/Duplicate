@@ -1,0 +1,29 @@
+{
+    "identifier": "online.wedro.Duplicate",
+    "name": "Duplicate",
+    "organization": "hutattedonmyarm",
+    "description": "Duplicates the current selection, or the whole line of the cursor position",
+    "version": "1.0",
+    "categories": ["commands", "key-bindings"],
+
+    "main": "main.js",
+
+    "activationEvents": [],
+
+    "entitlements": {},
+
+    "commands": {
+        "editor": [
+            {
+                "title": "Duplicate Selection",
+                "command": "duplicate.duplicateSelection",
+                "shortcut": "opt-cmd-d",
+                "when": "editorHasFocus"
+            }
+        ]
+    },
+
+    "config": [],
+
+    "bugs": "http://github.com/hutattedonmyarm/Duplicate/issues"
+}
