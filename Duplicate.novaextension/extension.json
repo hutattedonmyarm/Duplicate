@@ -4,7 +4,7 @@
     "organization": "hutattedonmyarm",
     "description": "Duplicates the current selection, or the whole line of the cursor position",
     "version": "1.0",
-    "categories": ["commands", "key-bindings"],
+    "categories": ["commands"],
 
     "main": "main.js",
 
