@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Artboard1" x="0" y="0" width="1024" height="1024" style="fill:none;"/>
+    <g id="Artboard11" serif:id="Artboard1">
+        <g id="Background">
+            <rect x="0" y="0" width="1024" height="1024" style="fill:rgb(46,46,46);"/>
+        </g>
+        <g id="Text" transform="matrix(1,0,0,1,0,38)">
+            <g transform="matrix(0.189394,0,0,1,58.3636,0)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(25,167,0);stroke:rgb(41,41,41);stroke-width:1.39px;"/>
+            </g>
+            <g transform="matrix(0.401515,0,0,1,547.091,0)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(0,89,255);stroke:rgb(41,41,41);stroke-width:1.31px;"/>
+            </g>
+            <g transform="matrix(0.265152,0,0,1,274.909,0)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(25,167,0);stroke:rgb(41,41,41);stroke-width:1.37px;"/>
+            </g>
+            <g transform="matrix(0.666667,0,0,1,24,144)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(222,0,255);stroke:rgb(41,41,41);stroke-width:1.18px;"/>
+            </g>
+            <g transform="matrix(0.136364,0,0,1,686.182,144)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(0,89,255);stroke:rgb(41,41,41);stroke-width:1.4px;"/>
+            </g>
+            <g transform="matrix(0.189394,0,0,1,58.3636,288)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(186,186,186);stroke:rgb(41,41,41);stroke-width:1.39px;"/>
+            </g>
+            <g transform="matrix(0.416667,0,0,1,234,432)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(235,235,235);stroke:rgb(41,41,41);stroke-width:1.31px;"/>
+            </g>
+            <g transform="matrix(0.416667,0,0,1,234,288)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(186,186,186);stroke:rgb(41,41,41);stroke-width:1.31px;"/>
+            </g>
+            <g transform="matrix(0.189394,0,0,1,640.364,288)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(255,0,27);stroke:rgb(41,41,41);stroke-width:1.39px;"/>
+            </g>
+            <g transform="matrix(0.189394,0,0,1,58.3636,432)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(235,235,235);stroke:rgb(41,41,41);stroke-width:1.39px;"/>
+            </g>
+            <g transform="matrix(0.189394,0,0,1,640.364,432)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(255,0,27);stroke:rgb(41,41,41);stroke-width:1.39px;"/>
+            </g>
+            <g transform="matrix(0.424242,0,0,1,353.455,720)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(98,0,212);stroke:rgb(41,41,41);stroke-width:1.3px;"/>
+            </g>
+            <g transform="matrix(0.613636,0,0,1,153.818,576)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(222,0,255);stroke:rgb(41,41,41);stroke-width:1.21px;"/>
+            </g>
+            <g transform="matrix(0.181818,0,0,1,184.909,720)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(25,167,0);stroke:rgb(41,41,41);stroke-width:1.39px;"/>
+            </g>
+            <g transform="matrix(0.181818,0,0,1,778.909,720)">
+                <rect x="72" y="72" width="792" height="72" style="fill:rgb(235,235,235);stroke:rgb(41,41,41);stroke-width:1.39px;"/>
+            </g>
+        </g>
+        <g id="Arrow" transform="matrix(1,0,0,1,0,38)">
+            <g transform="matrix(1,-0,-0,1,0,-38)">
+                <g id="Arrow1" serif:id="Arrow">
+                    <path d="M902.676,611.377L819.931,583.503L869.858,511.872L902.676,611.377Z" style="fill:rgb(0,255,255);"/>
+                    <path d="M858,428C942,436.601 947.728,541.354 873,566" style="fill:none;stroke:rgb(0,255,255);stroke-width:31.05px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
