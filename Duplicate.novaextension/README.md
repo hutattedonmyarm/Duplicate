@@ -3,4 +3,4 @@ If no text is selected, it duplicates the entire line of the current cursor posi
 
 It handles multiple selections and cursors as well.
 
-If you have feedback, or bug reports, please open an issue in the repository!
+If you have feedback, or bug reports, please open an issue in the [Github repository](http://github.com/hutattedonmyarm/Duplicate/issues)!

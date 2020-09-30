@@ -25,5 +25,7 @@
 
     "config": [],
 
-    "bugs": "http://github.com/hutattedonmyarm/Duplicate/issues"
+    "bugs": "http://github.com/hutattedonmyarm/Duplicate/issues",
+    "repository": "http://github.com/hutattedonmyarm/Duplicate",
+    "license": "Mozilla Public License Version 2.0"
 }
