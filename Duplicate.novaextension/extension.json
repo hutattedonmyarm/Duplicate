@@ -17,7 +17,7 @@
             {
                 "title": "Duplicate Selection",
                 "command": "duplicate.duplicateSelection",
-                "shortcut": "opt-cmd-d",
+                "shortcut": "shift-cmd-d",
                 "when": "editorHasFocus"
             }
         ]
