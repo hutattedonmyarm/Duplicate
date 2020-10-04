@@ -3,7 +3,7 @@
     "name": "Duplicate",
     "organization": "hutattedonmyarm",
     "description": "Duplicates the current selection, or the whole line of the cursor position",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "categories": ["commands"],
 
     "main": "main.js",
