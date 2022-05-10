@@ -3,15 +3,19 @@
     "name": "Duplicate",
     "organization": "hutattedonmyarm",
     "description": "Duplicates the current selection, or the whole line of the cursor position",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "categories": ["commands"],
 
     "main": "main.js",
 
-    "activationEvents": [],
+    "activationEvents": ["onCommand:duplicate.duplicateSelection"],
 
-    "entitlements": {},
-
+    "entitlements": {
+        "clipboard":false,
+        "process": false,
+        "requests": false
+    },
+    "min_runtime": "1.2",
     "commands": {
         "editor": [
             {
@@ -24,8 +28,8 @@
     },
 
     "config": [],
-
-    "bugs": "http://github.com/hutattedonmyarm/Duplicate/issues",
-    "repository": "http://github.com/hutattedonmyarm/Duplicate",
+    "homepage": "https://github.com/hutattedonmyarm/Duplicate",
+    "bugs": "https://github.com/hutattedonmyarm/Duplicate/issues",
+    "repository": "https://github.com/hutattedonmyarm/Duplicate",
     "license": "Mozilla Public License Version 2.0"
 }

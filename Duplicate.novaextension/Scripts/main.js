@@ -1,12 +1,3 @@
-exports.activate = function() {
-    // Do work when the extension is activated
-}
-
-exports.deactivate = function() {
-    // Clean up state before the extension is deactivated
-}
-
-
 nova.commands.register("duplicate.duplicateSelection", async (editor) => {
     // Selections, from the bottom of the document to the top
     let selectedRanges = editor.selectedRanges.sort((r1, r2) => r2.start - r1.start);
